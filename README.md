@@ -17,8 +17,9 @@ Flask + MongoDB + Bootstrap
 - [x] Responsive design
 - [x] Authentication (Login + Signup + Logout)
 - [x] password hashing
+- [x] Update username + password
 - [x] Redirect after login if successfully authenticated
-- [x] error message if login failed
+- [x] Error message if login failed
 - [x] Check if username existed in singup & update
 - [x] Profile page for authenticated user only
 - [x] Profile picture upload
