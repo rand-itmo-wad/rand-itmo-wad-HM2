@@ -31,7 +31,7 @@ Signup:
 
 ![](https://raw.githubusercontent.com/rand-itmo-wad/rand-itmo-wad-HM2/main/screenshots/signup.png)
 
-Login:
+Login Error:
 
 ![](https://raw.githubusercontent.com/rand-itmo-wad/rand-itmo-wad-HM2/main/screenshots/Login%20error.png)
 
