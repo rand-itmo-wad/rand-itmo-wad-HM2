@@ -1,9 +1,9 @@
 # Homework2 - Rand Deeb
 **Table of Contents**
 
-[TOCM]
-
-[TOC]
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
 
 ### Description
 Flask application for authentication and upload profile pictures
