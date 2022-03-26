@@ -1,10 +1,10 @@
 # Homework2 - Rand Deeb
 **Table of Contents**
 <!--ts-->
-   * [Description](###Description)
-   * [Technologies](###Technologies)
-   * [Features](###Features)
-   * [Screenshots](###Screenshots)
+   * [Description](#Description)
+   * [Technologies](#Technologies)
+   * [Features](#Features)
+   * [Screenshots](#Screenshots)
 <!--te-->
 
 ### Description
